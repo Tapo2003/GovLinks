@@ -126,6 +126,12 @@ html body {
   left: -70px;
 }
 
+#notification-icon-mobile i {
+  font-size: 50px;
+  color: white;
+  position: relative;
+}
+
 .circular-kd {
   background: #a0d9f6;
   width: 40px;
